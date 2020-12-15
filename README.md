@@ -11,3 +11,12 @@ Links :
 2. https://www.skillpipe.com/#/reader/book/1112c950-7ed9-5056-b53b-5b523cf0d817 --> Link to the study material
 3. http://aka.ms/AiClassRoom
 4. Email-ID for posting questions --> StudentQ@microsoft.com
+5. Intelligent kiosk --> download from microsoft store
+6. portal.azure.com
+7. aka.ms/Module1Reference
+8. aka.ms/Module1GoDo
+9. aka.ms/Module2Reference
+10. aka.ms/Module2GoDo
+11. aka.ms/Module3Reference
+12. aka.ms/Module3GoDo
+13. aka.ms/AI900Certification
