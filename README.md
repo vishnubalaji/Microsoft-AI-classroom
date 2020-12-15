@@ -20,3 +20,4 @@ Links :
 11. aka.ms/Module3Reference
 12. aka.ms/Module3GoDo
 13. aka.ms/AI900Certification
+14. https://github.com/MicrosoftDocs/ai-fundamentals
